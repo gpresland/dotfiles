@@ -1,0 +1,47 @@
+{
+  "header-increment": true,              /* MD001 - Header levels should only increment by one level at a time. */
+  "first-header-h1": true,               /* MD002 - First header should be a top level header. */
+  "header-style": {                      /* MD003 - Header style. */
+    "style": "consistent"
+  },
+  "ul-style": {                          /* MD004 - Unordered list style. */
+    "Style":"dash"
+  },
+  "list-indent": true,                   /* MD005 - MD005 - Inconsistent indentation for list items at the same level. */
+  "ul-start-left": true,                 /* MD006 - Consider starting bulleted lists at the beginning of the line.  */
+  "ul-indent": {                         /* MD007 - Unordered list indentation. */
+    "indent": 3
+  },
+  "no-trailing-spaces": true,            /* MD009 - Trailing spaces. */
+  "no-hard-tabs": true,                  /* MD010 - Hard tabs. */
+  "no-reversed-links": true,             /* MD011 - Reversed link syntax. */
+  "no-multiple-blanks": true,            /* MD012 - Multiple consecutive blank lines. */
+  "line-length": false,                  /* MD013 - Line length. */
+  "commands-show-output": true,          /* MD014 - Dollar signs used before commands without showing output. */
+  "no-missing-space-atx": true,          /* MD018 - No space after hash on atx style header. */
+  "no-multiple-space-atx": true,         /* MD019 - Multiple spaces after hash on atx style header. */
+  "no-missing-space-closed-atx": true,   /* MD020 - No space inside hashes on closed atx style header. */
+  "no-multiple-space-closed-atx": true,  /* MD021 - Multiple spaces inside hashes on closed atx style header. */
+  "blanks-around-headers": true,         /* MD022 - Headers should be surrounded by blank lines. */
+  "header-start-left": true,             /* MD023 - Headers must start at the beginning of the line. */
+  "no-duplicate-header": true,           /* MD024 - Multiple headers with the same content. */
+  "single-h1": true,                     /* MD025 - Multiple top level headers in the same document. */
+  "no-trailing-punctuation": true,       /* MD026 - Trailing punctuation in header. */
+  "no-multiple-space-blockquote": true,  /* MD027 - Multiple spaces after blockquote symbol. */
+  "no-blanks-blockquote": true,          /* MD028 - Blank line inside blockquote. */
+  "ol-prefix": true,                     /* MD029 - Ordered list item prefix. */
+  "list-marker-space": true,             /* MD030 - Spaces after list markers. */
+  "blanks-around-fences": true,          /* MD031 - Fenced code blocks should be surrounded by blank lines. */
+  "blanks-around-lists": true,           /* MD032 - Lists should be surrounded by blank lines. */
+  "no-inline-html": true,                /* MD033 - Inline HTML. */
+  "no-bare-urls": true,                  /* MD034 - Bare URL used. */
+  "hr-style": true,                      /* MD035 - Horizontal rule style. */
+  "no-emphasis-as-header": true,         /* MD036 - Emphasis used instead of a header. */
+  "no-space-in-emphasis": true,          /* MD037 - Spaces inside emphasis markers. */
+  "no-space-in-code": true,              /* MD038 - Spaces inside code span elements. */
+  "no-space-in-links": true,             /* MD039 - Spaces inside link text. */
+  "fenced-code-language": true,          /* MD040 - Fenced code blocks should have a language specified. */
+  "first-line-h1": true,                 /* MD041 - First line in file should be a top level header. */
+  "code-block-style": true,              /* MD046 - Code block style. */
+  "single-trailing-newline": true        /* MD047 - File should end with a single newline character. */
+}
